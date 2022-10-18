@@ -17,7 +17,17 @@ caps + m : delete
 
 Complex modifications 메뉴의 Add rule 창에서 "Fola custom" 이름의 룰을 설정 할 수 있습니다.
 
-수정, 재배포 자유입니다
+수정, 재배포 자유입니다.
+
+<br>
+
+## Update 2.1
+* file name : 
+  * fola_custom_v2.1.json
+  
+* 한영전환 단축키 개선 
+  * caps + space : F19 (기본 한영전환을 F19로 맞추어 주세요)
+  * 기존의 (ctrl + space) 조합키 보다 반응성이 더 좋습니다.   
 
 <hr>
 <br>
