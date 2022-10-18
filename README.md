@@ -19,6 +19,7 @@ Complex modifications 메뉴의 Add rule 창에서 "Fola custom" 이름의 룰�
 
 수정, 재배포 자유입니다.
 
+<hr>
 <br>
 
 ## Update 2.1
