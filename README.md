@@ -21,11 +21,11 @@ Complex modifications > Add rule 창에서 "Fola custom" 이름의 룰을 설정
 
 <hr>
 <br>
+<br>
 
-
-## ver 2.3
+## ver 2.2
 * file name : 
-  * fola_custom_v2.3.json
+  * fola_custom_v2.2.json
 
 * Shortcut:
   * caps + hjkl : 방향키
@@ -44,7 +44,7 @@ Complex modifications > Add rule 창에서 "Fola custom" 이름의 룰을 설정
 
 <hr>
 <br>
-
+<br>
 
 ## ver 2.1
 * file name : 
