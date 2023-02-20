@@ -23,16 +23,17 @@ Complex modifications > Add rule 창에서 "Fola custom" 이름의 룰을 설정
 <br>
 <br>
 
-## ver 2.2
+## ver 2.3
 * file name : 
-  * fola_custom_v2.2.json
+* 
+  * fola_custom_v2.3.json
 
 * Shortcut:
   * caps + hjkl : 방향키
   * caps + n : backspace
   * caps + m : delete
   * caps + g : enter
-  
+  * caps + p : play or pause
 * 변경사항:
   * 한영전환 단축키 삭제
     * 인풋랙 문제 해결이 되지 않아 한영전환 단축키를 제거하였습니다.
@@ -40,6 +41,8 @@ Complex modifications > Add rule 창에서 "Fola custom" 이름의 룰을 설정
     * 해머스푼을 이용한 솔루션은 인풋랙이 전혀 없으며 편집도 손쉽게 가능합니다. 아래 링크를 참고하세요.
       * [Github > Fola's Hammerspoon config code](https://github.com/dpcalfola/hammerspoon_config)
   * 개인적 용도의 tm680 config data 삭제
+  * Media controls 의 play_or_pose(Fn + F8) 단축키 추가:
+    * caps + p : play or pause
 
 
 <hr>
